@@ -1,4 +1,11 @@
-# Norlys IPv6 (Or *not* IPv6 depending on who you ask)
+---
+title: Norlys IPv6 (Or *not* IPv6 depending on who you ask)
+date: 2025-07-23 18:00:00 +0200
+categories: [Network]
+tags: [IPv6,Network,Sysadmin]     # TAG names should always be lowercase
+author: nik
+media_subpath: /media
+---
 
 ## Introduction
 
@@ -130,5 +137,5 @@ Trace complete.
 ## Optional (Not sure if this is needed)
 
 This rule i put in, as it seems to be common denominator amongst many other IPv6 ready DHCPv6 using ISP's, but not sure if it's needed
-![norlys-ipv6-rule](../../../assets/norlys-ipv6-rule.png)
+![norlys-ipv6-rule](norlys-ipv6-rule.png)
 If nothing else, it can be used to allow pings to all IPv6 addresses.
