@@ -2,13 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  profile: "https://github.com/ch0wm3in"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  
 
 - type: rss
   icon: "fas fa-rss"

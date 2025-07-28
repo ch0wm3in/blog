@@ -28,8 +28,6 @@ github_username:  ch0wm3in
 
 # Build settings
 theme: jekyll-theme-chirpy
-plugins:
-  - jekyll-feed
 lang: en
 timezone: Europe/Copenhagen
 timezone_short: CET
@@ -202,3 +200,17 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+github:
+  username: ch0wm3in # change to your GitHub username
+
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Nikolai T. Jensen
+  email: nikolai@nthj.dk # change to your email address
+  links:
+    - https://github.com/ch0wm3in # change to your GitHub homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/username
